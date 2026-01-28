@@ -15,7 +15,7 @@ I’m always excited to learn new technologies, explore innovative ideas, and co
   
 <!-- Languages --> 
 <img src="https://img.shields.io/badge/java-%23323330.svg?style=flat&logo=java&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />>
+<img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
 
