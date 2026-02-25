@@ -30,3 +30,13 @@ I’m always excited to learn new technologies, explore innovative ideas, and co
 <!-- Databases -->
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
 </p>
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanket73&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="160px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Sanket73&theme=dark&hide_border=false" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket73&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160px"/>
+</p>
