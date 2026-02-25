@@ -40,3 +40,8 @@ I’m always excited to learn new technologies, explore innovative ideas, and co
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket73&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160px"/>
 </p>
+
+## ✍️ Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
