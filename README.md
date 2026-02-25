@@ -5,7 +5,7 @@
 ---
 
 ## 💫 About Me
-Hi,I’m Sanket a Computer Engineering student with a strong passion for software development, data science, and web technologies. I love building practical, real-world projects—from AI-based systems and web applications to data-driven tools that create real impact.
+Hi,I’m **Sanket** a Computer Engineering student with a strong passion for software development, data science, and web technologies. **I love building practical, real-world projects—from AI-based systems and web applications to data-driven tools that create real impact.**
 I’m always excited to learn new technologies, explore innovative ideas, and collaborate on meaningful projects that solve real problems.
 
 ---
