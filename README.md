@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Sanket</h1>
-<h3 align="center">🚀 Computer Engineering Student | Developer | Data Science | AI - ML & Data Science</h3>
+<h3 align="center">🚀 Computer Engineering Student | Developer | Data Science | AI - ML </h3>
 
 ---
 
