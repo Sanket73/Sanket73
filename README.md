@@ -27,6 +27,13 @@ I’m always excited to learn new technologies, explore innovative ideas, and co
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" />
 
+<!-- Deep Learning & Reinforcement Learning -->
+<img src="https://img.shields.io/badge/Deep%20Learning-%230076D6.svg?style=flat&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/Gymnasium-%23000000.svg?style=flat&logo=OpenAI&logoColor=white" />
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-%23FF6F00.svg?style=flat&logo=OpenAI&logoColor=white" />
+<img src="https://img.shields.io/badge/Q--Learning-%2300C853.svg?style=flat" />
+<img src="https://img.shields.io/badge/Deep%20Q%20Learning-%23D50000.svg?style=flat" />
+
 <!-- Databases -->
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
 </p>
