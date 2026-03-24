@@ -1,5 +1,8 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Sanket</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=50&duration=8000&pause=2500&color=000000&center=true&vCenter=true&width=900&lines=Hi👋,+I'm+Sanket" />
+</p>
+<!-- <h1 align="center">Hi 👋, I'm Sanket</h1> -->
 <h3 align="center">🚀 Computer Engineering Student | Developer | Data Science | AI - ML </h3>
 
 ---
