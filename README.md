@@ -43,8 +43,7 @@ I’m always excited to learn new technologies, explore innovative ideas, and co
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanket73&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="Sanket73's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Sanket73&theme=highcontrast&hide_border=true" alt="Sanket73's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanket73&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="Sanket73's GitHub Stats" /> <img src="https://streak-stats.demolab.com?user=Sanket73&theme=highcontrast&hide_border=true" alt="Sanket73's GitHub Stats" />
 </p>
 
 <p align="center">
