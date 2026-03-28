@@ -25,7 +25,6 @@ I’m always excited to learn new technologies, explore innovative ideas, and co
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
 
 <!-- Data & AI -->
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" />
@@ -36,6 +35,9 @@ I’m always excited to learn new technologies, explore innovative ideas, and co
 <img src="https://img.shields.io/badge/Reinforcement%20Learning-%23FF6F00.svg?style=flat&logo=OpenAI&logoColor=white" />
 <img src="https://img.shields.io/badge/Q--Learning-%2300C853.svg?style=flat" />
 <img src="https://img.shields.io/badge/Deep%20Q%20Learning-%23D50000.svg?style=flat" />
+
+<!--GenAi -->
+<img src="https://img.shields.io/badge/TensorFlow-%23000000.svg?style=flat&logo=tensorflow&logoColor=orange" />
 
 <!-- Databases -->
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
